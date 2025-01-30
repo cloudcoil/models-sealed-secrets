@@ -1,6 +1,6 @@
 [project]
 name = "cloudcoil.models.sealed_secrets"
-version = "0.0.0"
+version = "0.28.0.0"
 description = "Versioned sealed-secrets models for cloudcoil"
 authors = [{ name = "Sambhav Kothari", email = "sambhavs.email@gmail.com" }]
 maintainers = [{ name = "Sambhav Kothari", email = "sambhavs.email@gmail.com" }]
