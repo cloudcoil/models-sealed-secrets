@@ -1,6 +1,11 @@
 # cloudcoil-models-sealed-secrets
 
 Versioned sealed-secrets models for cloudcoil.
+
+[![PyPI](https://img.shields.io/pypi/v/cloudcoil.models.sealed_secrets.svg)](https://pypi.python.org/pypi/cloudcoil.models.sealed_secrets)
+[![Downloads](https://static.pepy.tech/badge/cloudcoil.models.sealed_secrets)](https://pepy.tech/project/cloudcoil.models.sealed_secrets)
+[![License: Apache-2.0](https://img.shields.io/badge/License-Apache_2.0-blue.svg)](https://opensource.org/license/apache-2-0/)
+[![CI](https://github.com/cloudcoil/models-sealed-secrets/actions/workflows/ci.yml/badge.svg)](https://github.com/cloudcoil/models-sealed-secrets/actions/workflows/ci.yml)
 > [!WARNING]  
 > This repository is auto-generated from the [cloudcoil repository](https://github.com/cloudcoil/cloudcoil/tree/main/models/sealed-secrets). Please do not submit pull requests here. Instead, submit them to the main repository at https://github.com/cloudcoil/cloudcoil.
 
