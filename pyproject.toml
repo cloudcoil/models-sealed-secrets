@@ -1,6 +1,6 @@
 [project]
 name = "cloudcoil.models.sealed_secrets"
-version = "0.39.1.0"
+version = "0.39.1.1"
 description = "Versioned sealed-secrets models for cloudcoil"
 authors = [{ name = "Sambhav Kothari", email = "sambhavs.email@gmail.com" }]
 maintainers = [{ name = "Sambhav Kothari", email = "sambhavs.email@gmail.com" }]
@@ -47,6 +47,7 @@ asyncio_mode = "auto"
 
 [dependency-groups]
 dev = [
+    "packaging>=24.2",
     "mypy>=1.19",
     "pyright>=1.1.407",
     "mkdocs>=1.6.1",
